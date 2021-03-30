@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[678],{7704:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return u}});var r=n(7294);function u(){return r.createElement("div",{style:{color:"purple"}},r.createElement("h1",null,"401!"),r.createElement("p",null,"Page not found ..."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-70fb6715ec98601344e4.js.map
